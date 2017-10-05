@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="bahan">Bahan: </string>
+    <string name="langkah">Langkah-langkah: </string>
+    <string-array name="judul_resep">
+        <item>Steak Terong</item>
+        <item>Caramel Popcorn</item>
+        <item>Sirloin Steak</item>
+        <item>Roti Bakar Telur </item>
+        <item>Korean Egg Toast</item>
+        <item>Tteokbokki(Tanpa Gochujang)</item>
+        <item>King Mango Thai</item>
+        <item>Mango Sticky Rice</item>
+    </string-array>
+    <string-array name="keterangan_resep">
+        <item>Kreasi masakan untuk anda yang tidak menyukai terong </item>
+        <item>Popcorn adalah camilan wajib ketika menonton film, inilah resep untuk membuatnya sendiri di rumah</item>
+        <item>Steak ternyata mudah dibuat di rumah, dan tentunya lebih hemat! </item>
+        <item>Alternatif menu sarapan yang mudah dan cepat dibuat</item>
+        <item>Kreasi Roti Bakar ala Negeri Gingseng</item>
+        <item>Makanan yang sering muncul di drama korea ini tenryata bisa kita buat sendiri di rumah, lho! </item>
+        <item>Minuman kekinian dari Thailand berbahan dasar mangga yang sedang naik daun</item>
+        <item>Sebuah dessert khas Negeri Gajah Putih, berbahan dasar buah mangga dengan citarasa legit</item>
+    </string-array>
+    <string-array name="detail_resep">
+        <item>
+            1.	100gr terong\n
+            2.	1 buah kentang\n
+            3.	1 butir telur\n
+            4.	1 siung bawang putih\n
+            5.	Secukupnya garam, kaldu, bubuk merica\n
+            6.	3 sendok makan terigu\n
+            7.	1 sdm margarine\n
+            8.	1 sdm minyak goreng\n
+            9.	Potongan daging ayam\n
+            10.	Seledri dan daun bawang\n
+
+        </item>
+        <item>
+            1.	½ cup jagung pipil untuk popcorn\n
+            2.	2 sdm butter\n
+            3.	220 gram gula pasir\n
+            4.	120 gram salted butter (mentega asin)\n
+        </item>
+        <item>
+            1.	1 daging sirloin\n
+            2.	1 buah kentang\n
+            3.	6 buah tomat ceri\n
+            4.	1 ikat bayam hijau dan merah\n
+            5.	1 buah bawang putih\n
+            6.	1 sdt lada putih\n
+            7.	½ sdt garam\n
+            8.	½ lada hitam\n
+            9.	1 sdt daun basil kering\n
+            10.	1 bungkus sauce barbeque delmonte\n
+            11.	100gr tepung terigu\n
+            12.	100ml minyak goreng\n
+        </item>
+        <item>
+            1.	1 lembar roti tawar\n
+            2.	1 butir telur\n
+            3.	Sejumput oregano\n
+            4.	Secuil garam\n
+            5.	Secuil lada\n
+            6.	Daging / sosis untuk toping\n
+        </item>
+        <item>
+            1.	4 lembar roti tawar tanpa pinggiran\n
+            2.	2 butir telur\n
+            3.	Secukupnya kol dan wortel\n
+            4.	1 sdm kornet daging sapi\n
+            5.	½ buah bawang bombai ukuran kecil\n
+            6.	Secukupnya garam dan blackpapper\n
+            7.	Margarin\n
+            8.	½ sdt gula\n
+            9.	Saus tomat dan saus sambal\n
+        </item>
+        <item>
+            1.	200gr tepung beras\n
+            2.	2 sdm tepung tapioca\n
+            3.	2sdm minyak goreng\n
+            4.	Secukupnya air panas\n
+            5.	2 buah bawang merah cincang halus\n
+            6.	3 siung bawang putih cincang halus\n
+            7.	2sdm saos tomat\n
+            8.	1sdm saos tiram\n
+            9.	2sdm kecap asin\n
+            10.	3sdm saos sambal\n
+            11.	½ sdt gula\n
+            12.	½ sdt bubuk cabe\n
+            13.	Secukupnya garam\n
+            14.	Secukupnya daun bawang\n
+            15.	Sedikit wijen putih\n
+        </item>
+        <item>
+            1.	4 buah manga\n
+            2.	300ml air\n
+            3.	100ml santan/ 1 buah kelapa muda\n
+            4.	Secukupnya gula\n
+            5.	Secukupnya whipped  cream\n
+        </item>
+        <item>
+            1.	1 buah manga harum manis besar\n
+            2.	250 gram beras ketan\n
+            3.	200ml santan kelapa\n
+            4.	½ sdt garam\n
+            5.	1 sdm gula pasir\n
+            6.	3lbr daun pandan\n
+            7.	Chia seed\n
+            8.	Wijen\n
+        </item>
+    </string-array>
+    <string-array name="cara_resep">
+        <item>
+            1.	Siapkan bahan\n
+            2.	Rebus kentang dan terong hingga empuk lalu tiriskan. Haluskan kentang terong secara terpisah\n
+            3.	Tambahkan bumbum, terigu dan telur lalu aduk rata\n
+            4.	Goreng hingga matang, ambil seperempat kentang beri 2 sdm air… rebus…. Tambhkan sedikit gula pasir dan garan
+            5.	Letakkan kentang yang telah digoreng pada piring, tata kentang halus di atasnya, guyur dengan kentang/pasta rebus.\n
+            6.	Taburi dengan daun sledri dan daun bawang lalu sajikan\n
+        </item>
+        <item>
+        1.	Siapkan panic bertutup dan panaskan panci\n
+        2.	Masukkan 2 sdm butter ke dalam panic dan biarkan meleleh\n
+        3.	Masukkan butiran jagung. Tutup \n
+        4.	Biarkan jagung meletup-letup, jika bunyi letupan mulai jarang, matikan api\n
+        5.	Pindahkan popcorn ke wadah\n
+        6.	Buat caramel, panaskan panic dengan api sedang, campur butter dan gula lalu aduk sampai butter leleleh dan tercampur rata dengan gula\n
+        7.	Matikan api bila caramel sudah berwarna keemasan, kemudian tuang ke wadah berisi popcorn\n
+        8.	Pindahkan popcorn ke nampan lebar, sebar dan pisah-pisah agar tidak menggumpal. Biarkan hingga dingin dan caramel mengeras\n
+        </item>
+
+        <item>
+            1.	Bumbui daging sirloin dengan garam, merica, lada hitam, dan sedikit serpihan daun basil, kemudian aduk merata dan diamkan beberapa menit\n
+            2.	Buat kentang goreng crispi, potong 1 buah kentang, masukkan ke dalam tepung terigu yang sudah diberi 3sdm air putih dan sedikit garam+merica. Aduk kentang kemudian goreng\n
+            3.	Cuci bersih bayam hijau dan merah, cincang bawang putih, siapkan wajan panas, masukkan bawang putih hingga harum kemudian masukkan bayam yang sudah dicuci bersih, beri sedikit garam dan merica, aduk hingga sedikit layu\n
+            4.	Siapkan pemanggang untuk memanggang daging sirloin dan tomat cherry. Setelah semua matang hangatkan saus barbeque hingga panas, sajikan daging kentang dan bayam dalam piring\n
+
+        </item>
+        <item>
+            1.	Panaskan microwave, siapkan roti lalu pipihkan bagian tengahnya seperti dibuat lubang. Tuang telur ke lubang tsb. Beri garam, lada dan oregano\n
+            2.	Masukkan ke dalam microwave. Tunggu hingga roti berubah warna menjadi golden brown dan telur matang\n
+            3.	Angkat, sajikan\n
+        </item>
+        <item>
+            1.	Siapkan semua bahan, cuci bersih kol wortel dan bawang bombai kemnudian cincang halus memanjan\n
+            2.	Kocok telur di dalam wadah kemnudian masukkan potongan kol, wortel, bawang bombai, dan kornet. Beri garam dan lada hitam kemudian aduk rata\n
+            3.	Oles roti dengan margarin kemudian panaskan Teflon. Panggang roti sebentar lalu angkat dan sisihkan\n
+            4.	Masukkan margarin ke dalam Teflon, goreng adonan telur hingga matang dan kecoklatan. Kemnudian angkat\n
+            5.	Tata roti di atas piring, beri telur dan saos tomat atau sambil kemudian taburi dengan gula. Sajikan.\n
+
+        </item>
+        <item>
+            1.	Panaskan air untuk membuat adonan tteokbokki, kemudin campur tepung beras dan tepung tapioca, beri gram sedikit. Masukkan air panas sedikit demi sedikit sambil diaduk, jika sdh tidak begitu panas uleni dengan tangan\n
+            2.	Bentuk adonan memanjang kemudian rebus hingga matang. Jika sudah mtang angkat dan tiriskan\n
+            3.	Panaskan minyak untuk menumis, masukkan bawang merah dan bawang putih hingga harum. Masukkan bahan-bahan lainnya kecuali daun bawang dan wijen, beri air. Masukkan tteobokki.\n
+            4.	Terakhir masukkan daun bawang dan taburkan wijen di atasnya. Nikmati selagi hangat.\n
+
+        </item>
+        <item>
+            1.	2 buah manga diblender dengan air, gula, dan santan/kelapa muda\n
+            2.	1 buah manga diserut lalu bekukan di freezer (min 4 jam sebelumnya)\n
+            3.	1 buah manga dipotong dadu untuk topping\n
+            4.	Layer ke 1 jus manga, layer ke 2 whipped cream, layer ke 3 serutan manga beku, layer ke 4 potongan manga\n
+            5.	Sajikan dingin lebih segar\n
+
+        </item>
+        <item>
+            1.	Cuci beras ketan dengan 150gram santan, garam, dan 2 lembar daun pandan dicmapur air lalu aduk hingga mendidih dan beras berubah menjadi nasi setengah matng. Pindahkan pada kukusan yang sudah mendidih airnya, kukus hingga matang\n
+            2.	Kupas dan potong manga sesuai selera\n
+            3.	Panaskan 50ml santan dicampur gula pasir, daun pandan, tambahkan sedikit air\n
+            4.	Taburi wijen dan chia seed\n
+            5.  Siap disajikan dalam keadaan dingin\n
+
+        </item>
+    </string-array>
+</resources>
